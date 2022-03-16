@@ -1,0 +1,11 @@
+.newsLetter:after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: linear-gradient(to right, #62b261c5, #96a83cde);
+    height: 100%;
+    width: 63%;
+    clear: both;
+}
