@@ -1,0 +1,44 @@
+{
+    "8 Series Coupe":{
+        "model":"8 Series Coupe",
+        "series":"8 Series",
+        "body":"Coupe",
+        "src":"30.png"
+    },
+    "8 Series Gran Coupe":{
+        "model":"8 Series Gran Coupe",
+        "series":"8 Series",
+        "body":"Gran Coupe",
+        "src":"31.png"
+    },
+    "8 Series Convetrible":{
+        "model":"8 Series Convetrible",
+        "series":"8 Series",
+        "body":"Convertible",
+        "src":"32.png"
+    },
+    "M8 Competition Coupe":{
+        "model":"M8 Competition Coupe",
+        "series":"8 Series",
+        "body":"Coupe",
+        "src":"33.png"
+    },
+    "M8 Competition Gran Coupe":{
+        "model":"M8 Competition Gran Coupe",
+        "series":"8 Series",
+        "body":"Gran Coupe",
+        "src":"34.png"
+    },
+    "M8 Competition Convertible":{
+        "model":"M8 Competition Convertible",
+        "series":"8 Series",
+        "body":"Convertible",
+        "src":"35.png"
+    },
+    "B8 Alpina Gran Coupe":{
+        "model":"B8 Alpina Gran Coupe",
+        "series":"8 Series",
+        "body":"Coupe",
+        "src":"36.png"
+    }
+}
